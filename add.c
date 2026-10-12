@@ -11,6 +11,6 @@ void add_2_numbers() {
     sum = firstNumber + secondNumber;      
     
     printf("%d + %d = %d\n", firstNumber, secondNumber, sum);
-    return 0;
+    
 }
 
